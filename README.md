@@ -25,11 +25,9 @@ integration.ok
 
 <h1>JOURNEY OF EDUCONNECT</h1>
 
-<p>This platform aimed to unite the vast universe of educational resources, offering an array of engaging and enlightening materials to students. </p>
-
-<h3>As they embarked on their journey, the team focused on several Key Activities:</h3>
+<h3>This platform aimed to unite the vast universe of educational resources, offering an array of engaging and enlightening materials to students. As they embarked on their journey, the team focused on several Key Activities:</h3>
  
-<p>Relentlessly refining the platform, managing user accounts and data protection, enhancing search engine optimization and analytics,and moderating content for a superior learning experience. These efforts were aided by the recruitment of talented Web Development Teams and investment in a Data Management System. </p>
+<p>-> Relentlessly refining the platform, managing user accounts and data protection, enhancing search engine optimization and analytics,and moderating content for a superior learning experience. These efforts were aided by the recruitment of talented Web Development Teams and investment in a Data Management System. </p>
 
 <p>-> EduConnect's Value Propositions set it apart from the competition: a user-friendly interface, project submission and rating, personalized user profiles, and an advanced search engine, along with real-time chat and plagiarism checker features.</p>
 
