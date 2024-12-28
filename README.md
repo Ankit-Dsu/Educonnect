@@ -1,6 +1,6 @@
-# Educonnect
+<h1>Educonnect</h1>
 
-## Description
+<h3>Description</h3>
 
 EduConnect's prototype is a web-based platform with an intuitive
 and visually appealing user interface. Users can create accounts,
