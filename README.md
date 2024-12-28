@@ -31,10 +31,10 @@ integration.ok
  
 <p>Relentlessly refining the platform, managing user accounts and data protection, enhancing search engine optimization and analytics,and moderating content for a superior learning experience. These efforts were aided by the recruitment of talented Web Development Teams and investment in a Data Management System. </p>
 
-<p>EduConnect's Value Propositions set it apart from the competition: a user-friendly interface, project submission and rating, personalized user profiles, and an advanced search engine, along with real-time chat and plagiarism checker features.</p>
+<p>-> EduConnect's Value Propositions set it apart from the competition: a user-friendly interface, project submission and rating, personalized user profiles, and an advanced search engine, along with real-time chat and plagiarism checker features.</p>
 
-<p>Customer Relationships thrived with self-service account creation and project submission, personalized user profiles, community engagement, and a dedicated customer support and feedback channel. </p>
+<p>-> Customer Relationships thrived with self-service account creation and project submission, personalized user profiles, community engagement, and a dedicated customer support and feedback channel. </p>
 
-<p>To reach the masses, EduConnect's Marketing and Promotional Campaigns unfolded on social media, educational forums, and strategic partnerships. The platform's audience spans the spectrum of Students, Educators, and Mentors, reaching even the most ardent Project Enthusiasts and Freelancers. </p>
+<p>-> To reach the masses, EduConnect's Marketing and Promotional Campaigns unfolded on social media, educational forums, and strategic partnerships. The platform's audience spans the spectrum of Students, Educators, and Mentors, reaching even the most ardent Project Enthusiasts and Freelancers. </p>
 
-<p>EduConnect's Cost Structure includes platform development and maintenance, hosting and server costs, software licensing fees, marketing and promotional expenses, and customer support and moderation team salaries. </p>
+<p>-> EduConnect's Cost Structure includes platform development and maintenance, hosting and server costs, software licensing fees, marketing and promotional expenses, and customer support and moderation team salaries. </p>
